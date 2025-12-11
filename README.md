@@ -51,7 +51,7 @@ Endpoints usados:
 - `DELETE /reports/:id` – Eliminar actividad.
 
 ## **Descripción del proyecto**
-![Esta es la pagina principal]("https://github.com/user-attachments/assets/75d31d16-9b98-4ceb-892d-60b8787f44a5")
+![Esta es la pagina principal](["https://github.com/user-attachments/assets/75d31d16-9b98-4ceb-892d-60b8787f44a5"])
 ![Pagina de registro](https://github.com/user-attachments/assets/3531e51c-54ab-4222-a112-e966273ac206")
 ![Menú principal]("https://github.com/user-attachments/assets/c4ff1979-2a52-4624-b233-9d2c7f52363e")
 ![Pagina con los datos del usuario]("https://github.com/user-attachments/assets/afa5289d-04b0-4573-b9fc-85150f4a4b1d")
